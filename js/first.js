@@ -25,7 +25,7 @@ function counter(){
                 counterId.innerHTML = `${x}`
             }
             
-        }, 100);
+        }, 200);
 }
 
 counter()
