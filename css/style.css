@@ -1,0 +1,12 @@
+#test {
+    background-color: #333;
+    text-align: center;
+    color: white;
+}
+
+#test h1 {
+    display: none;
+}
+#test .col-md-4 {
+    display: none;
+}
